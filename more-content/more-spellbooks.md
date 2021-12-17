@@ -33,7 +33,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 19   | Boundless Message           | Delivers a single sentence to any one creature instantaneously, no matter the distance. |
 | 20   | Breath Soup                 | Blocks vision and slows movement.                            |
 | 21   | Burning Missile             | You fire an acid missile that does 1d6 damage to a target for every round it is not washed off. |
-| 22   | Burnishig Bubble            | Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save. |
+| 22   | Burnishing Bubble            | Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save. |
 | 23   | Catsense                    | Target has heightened senses for the next hour, especially at night. |
 | 24   | Chilling Graze              | Target loses 1d4+1 STR and is deprived.                      |
 | 25   | Cinder Flesh                | Energy beams burn enemies (1d10 blast damage) in a straight line. |
@@ -62,7 +62,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 48   | Earsplit                    | Anyone within earshot is deafened.                           |
 | 49   | Easy Descent                | Objects or creatures nearby fall very slowly.                |
 | 50   | Edifice                     | You summon a stone wall up to 20ft wide that you can control. |
-| 51   | Energize Rope               | A rope-like objects moves at your command.                   |
+| 51   | Energize Rope               | A rope-like object moves at your command.                   |
 | 52   | Ensorcelled                 | Creatures are enraptured for a few minutes unless they pass a WIL save. |
 | 53   | Envision                    | Spies on a target you have met, even across vast distances. On a WIL save, they can feel your presence. |
 | 54   | Ephemeral Audio             | Point to a spot. Anyone nearby hears a sound you choose at any volume. |
@@ -72,7 +72,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 58   | Feline Dexterity            | Target becomes limber, lithe and as fast as quicksilver.     |
 | 59   | Find Virulence              | Detects poison in any creature or object within 30ft.        |
 | 60   | Fire Curse                  | An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR loss. |
-| 61   | Firey Missile               | A bow you touch can fire flaming arrows (1d10 damage) for one minute. |
+| 61   | Fiery Missile               | A bow you touch can fire flaming arrows (1d10 damage) for one minute. |
 | 62   | Fish Lung                   | A target can breathe underwater until they surface again.    |
 | 63   | Fleetfooted                 | One creature moves at double speed.                          |
 | 64   | Flicker                     | Target randomly vanishes and reappears once at will.         |
@@ -97,7 +97,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 83   | Hovering Protection         | A hovering, transparent disk materializes around an ally granting 1 Armor. |
 | 84   | Ice Ray                     | Ice and snow flow from your fingerprints, dealing 1d8 damage (blast) in a straight line. |
 | 85   | Icy Tempest                 | Hail deals 1d12 damage in a 20ft radius.                     |
-| 86   | Ill Fate                    | Target automatically fails next their next save.             |
+| 86   | Ill Fate                    | Target automatically fails their next save.             |
 | 87   | Illusory Landscape          | You can make one type of terrain appear like another.        |
 | 88   | Incorporeal Shrug           | Ignore any one attack.                                       |
 | 89   | Induce Despair              | Target must pass a WIL save or its attacks are impaired.     |
@@ -127,7 +127,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 113  | Minor Genesis               | Creates an object of nonliving matter no greater than one cubic foot in size. |
 | 114  | Mirage                      | You summon a noiseless & simple illusion of your choice.     |
 | 115  | Molasses Veins              | A single target moves at half speed.                         |
-| 116  | Murky Bubble                | You create a bubble supernatural shadow within a 20ft radius. |
+| 116  | Murky Bubble                | You create a bubble of supernatural shadow within a 20ft radius. |
 | 117  | Necrotic Touch              | Target must DEX save or is paralyzed.                        |
 | 118  | Obfuscate                   | Target cannot be observed either through divination or scrying. |
 | 119  | Obfuscation                 | Changes your appearance.                                     |
@@ -159,7 +159,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 145  | Puppeteer                   | You can throw your voice a great distance away               |
 | 146  | Purge Text                  | Mundane or magical writing vanishes at your touch.           |
 | 147  | Pyramid of Passivity        | Target creatures must make a DEX save or their attacks are impaired. |
-| 148  | Pyschic Touch               | You can hear target's surface thoughts, so long as you touch them. |
+| 148  | Psychic Touch               | You can hear target's surface thoughts, so long as you touch them. |
 | 149  | Rat-Tat-Tat                 | Loudly opens a locked or magically sealed door or chest.     |
 | 150  | Ravenless Message           | You send a short message 1 mile that anyone along its path can hear. |
 | 151  | Reject Unlife               | Nearby undead are immobilized for 30 seconds or until you take another action. |
@@ -194,7 +194,7 @@ If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're
 | 180  | Sudden Slumber              | Target falls asleep for 1d4 hours.                           |
 | 181  | Sway Will                   | A target is compelled to follow a stated course of action, without understanding why. |
 | 182  | Temporary Reprieve          | Target regains any lost STR, but loses it again after a few minutes. |
-| 183  | Terrify                     | Targets within eysight must pass a WIL save or flee.         |
+| 183  | Terrify                     | Targets within eyesight must pass a WIL save or flee.         |
 | 184  | Terrifying Illusion         | A target is hunted by a terrible creature only they can see. Its attacks do 1d12 damage; on Critical Damage they must pass a WIL save or become catatonic. |
 | 185  | Thief's Bane                | An object appears trapped, even to an experienced thief.     |
 | 186  | Thwart the Elements         | Damage from energy blasts are impaired against a target for the next hour. |
